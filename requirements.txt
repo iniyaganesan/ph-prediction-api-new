@@ -1,0 +1,6 @@
+scikit-learn
+Flask==2.2.2
+tensorflow==2.11.0  # or the version that you are using for your model
+numpy==1.23.4  # specify the version you're using
+joblib==1.1.0 
+flask-cors
